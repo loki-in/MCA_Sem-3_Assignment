@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "660000000000000000000001"
+  },
+  "name": "iPhone 15",
+  "category": "Electronics",
+  "brand": "Apple",
+  "price": 65000,
+  "stock": 25,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000002"
+  },
+  "name": "Samsung Galaxy S24",
+  "category": "Electronics",
+  "brand": "Samsung",
+  "price": 72000,
+  "stock": 18,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000003"
+  },
+  "name": "OnePlus 12",
+  "category": "Electronics",
+  "brand": "OnePlus",
+  "price": 58000,
+  "stock": 30,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000004"
+  },
+  "name": "MacBook Air M3",
+  "category": "Electronics",
+  "brand": "Apple",
+  "price": 115000,
+  "stock": 12,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000005"
+  },
+  "name": "Dell Inspiron 15",
+  "category": "Electronics",
+  "brand": "Dell",
+  "price": 62000,
+  "stock": 20,
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000006"
+  },
+  "name": "Sony WH-1000XM5",
+  "category": "Audio",
+  "brand": "Sony",
+  "price": 29000,
+  "stock": 35,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000007"
+  },
+  "name": "AirPods Pro 2",
+  "category": "Audio",
+  "brand": "Apple",
+  "price": 24900,
+  "stock": 40,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000008"
+  },
+  "name": "JBL Flip 6",
+  "category": "Audio",
+  "brand": "JBL",
+  "price": 11000,
+  "stock": 50,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000009"
+  },
+  "name": "Logitech MX Master 3S",
+  "category": "Accessories",
+  "brand": "Logitech",
+  "price": 8500,
+  "stock": 28,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000010"
+  },
+  "name": "Keychron K2",
+  "category": "Accessories",
+  "brand": "Keychron",
+  "price": 9500,
+  "stock": 22,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000011"
+  },
+  "name": "Nike Air Max",
+  "category": "Footwear",
+  "brand": "Nike",
+  "price": 12000,
+  "stock": 45,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000012"
+  },
+  "name": "Adidas Ultraboost",
+  "category": "Footwear",
+  "brand": "Adidas",
+  "price": 15000,
+  "stock": 32,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000013"
+  },
+  "name": "Puma RS-X",
+  "category": "Footwear",
+  "brand": "Puma",
+  "price": 9000,
+  "stock": 38,
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000014"
+  },
+  "name": "Levi's 511 Jeans",
+  "category": "Clothing",
+  "brand": "Levi's",
+  "price": 3500,
+  "stock": 60,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000015"
+  },
+  "name": "Nike Hoodie",
+  "category": "Clothing",
+  "brand": "Nike",
+  "price": 4500,
+  "stock": 55,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000016"
+  },
+  "name": "Adidas T-Shirt",
+  "category": "Clothing",
+  "brand": "Adidas",
+  "price": 2200,
+  "stock": 70,
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000017"
+  },
+  "name": "The North Face Jacket",
+  "category": "Clothing",
+  "brand": "North Face",
+  "price": 18000,
+  "stock": 15,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000018"
+  },
+  "name": "Casio G-Shock",
+  "category": "Watches",
+  "brand": "Casio",
+  "price": 9500,
+  "stock": 25,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000019"
+  },
+  "name": "Fossil Gen 6",
+  "category": "Watches",
+  "brand": "Fossil",
+  "price": 22000,
+  "stock": 14,
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000020"
+  },
+  "name": "Apple Watch Series 9",
+  "category": "Watches",
+  "brand": "Apple",
+  "price": 42000,
+  "stock": 19,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000021"
+  },
+  "name": "Kindle Paperwhite",
+  "category": "Books",
+  "brand": "Amazon",
+  "price": 15000,
+  "stock": 30,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000022"
+  },
+  "name": "Atomic Habits",
+  "category": "Books",
+  "brand": "Penguin",
+  "price": 550,
+  "stock": 100,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000023"
+  },
+  "name": "Clean Code",
+  "category": "Books",
+  "brand": "Prentice Hall",
+  "price": 900,
+  "stock": 70,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000024"
+  },
+  "name": "Sony Bravia 55 TV",
+  "category": "Electronics",
+  "brand": "Sony",
+  "price": 78000,
+  "stock": 10,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000025"
+  },
+  "name": "LG 1.5 Ton AC",
+  "category": "Appliances",
+  "brand": "LG",
+  "price": 42000,
+  "stock": 16,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000026"
+  },
+  "name": "Philips Air Fryer",
+  "category": "Appliances",
+  "brand": "Philips",
+  "price": 8500,
+  "stock": 27,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000027"
+  },
+  "name": "Prestige Mixer Grinder",
+  "category": "Appliances",
+  "brand": "Prestige",
+  "price": 4500,
+  "stock": 35,
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000028"
+  },
+  "name": "Samsung 27 Monitor",
+  "category": "Electronics",
+  "brand": "Samsung",
+  "price": 22000,
+  "stock": 21,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000029"
+  },
+  "name": "HP Laser Printer",
+  "category": "Electronics",
+  "brand": "HP",
+  "price": 16000,
+  "stock": 17,
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000030"
+  },
+  "name": "Boat Stone Speaker",
+  "category": "Audio",
+  "brand": "Boat",
+  "price": 3500,
+  "stock": 65,
+  "rating": 4.2
+}]

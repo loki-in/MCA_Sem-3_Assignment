@@ -1,0 +1,756 @@
+[{
+  "_id": {
+    "$oid": "670000000000000000000001"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000001"
+  },
+  "orderDate": {
+    "$date": "2026-08-01T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000001"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000007"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Raipur"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000002"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000002"
+  },
+  "orderDate": {
+    "$date": "2026-08-02T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000011"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000014"
+      },
+      "quantity": 2
+    }
+  ],
+  "shippingCity": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000003"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000003"
+  },
+  "orderDate": {
+    "$date": "2026-08-03T00:00:00.000Z"
+  },
+  "status": "Shipped",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000004"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000004"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000004"
+  },
+  "orderDate": {
+    "$date": "2026-08-04T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000006"
+      },
+      "quantity": 2
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000009"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Ahmedabad"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000005"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000005"
+  },
+  "orderDate": {
+    "$date": "2026-08-05T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000015"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000016"
+      },
+      "quantity": 2
+    }
+  ],
+  "shippingCity": "Pune"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000006"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000006"
+  },
+  "orderDate": {
+    "$date": "2026-08-06T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000002"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000010"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000007"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000007"
+  },
+  "orderDate": {
+    "$date": "2026-08-07T00:00:00.000Z"
+  },
+  "status": "Cancelled",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000020"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Kolkata"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000008"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000008"
+  },
+  "orderDate": {
+    "$date": "2026-08-08T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000024"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000026"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000009"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000009"
+  },
+  "orderDate": {
+    "$date": "2026-08-09T00:00:00.000Z"
+  },
+  "status": "Shipped",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000012"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000015"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Chennai"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000010"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000010"
+  },
+  "orderDate": {
+    "$date": "2026-08-10T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000018"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Jaipur"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000011"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000011"
+  },
+  "orderDate": {
+    "$date": "2026-08-11T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000021"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000022"
+      },
+      "quantity": 2
+    }
+  ],
+  "shippingCity": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000012"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000012"
+  },
+  "orderDate": {
+    "$date": "2026-08-12T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000003"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000008"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Surat"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000013"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000013"
+  },
+  "orderDate": {
+    "$date": "2026-08-13T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000023"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Kochi"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000014"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000014"
+  },
+  "orderDate": {
+    "$date": "2026-08-14T00:00:00.000Z"
+  },
+  "status": "Shipped",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000013"
+      },
+      "quantity": 2
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000017"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Bhopal"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000015"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000015"
+  },
+  "orderDate": {
+    "$date": "2026-08-15T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000005"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000028"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Chandigarh"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000016"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000016"
+  },
+  "orderDate": {
+    "$date": "2026-08-16T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000025"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Nagpur"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000017"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000017"
+  },
+  "orderDate": {
+    "$date": "2026-08-17T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000022"
+      },
+      "quantity": 3
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000023"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Bhubaneswar"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000018"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000018"
+  },
+  "orderDate": {
+    "$date": "2026-08-18T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000029"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000009"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Indore"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000019"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000019"
+  },
+  "orderDate": {
+    "$date": "2026-08-19T00:00:00.000Z"
+  },
+  "status": "Shipped",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000019"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000020"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Amritsar"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000020"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000020"
+  },
+  "orderDate": {
+    "$date": "2026-08-20T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000030"
+      },
+      "quantity": 2
+    }
+  ],
+  "shippingCity": "Noida"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000021"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000001"
+  },
+  "orderDate": {
+    "$date": "2026-08-21T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000004"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000006"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Raipur"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000022"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000003"
+  },
+  "orderDate": {
+    "$date": "2026-08-22T00:00:00.000Z"
+  },
+  "status": "Cancelled",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000001"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000023"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000006"
+  },
+  "orderDate": {
+    "$date": "2026-08-23T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000011"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000012"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000024"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000008"
+  },
+  "orderDate": {
+    "$date": "2026-08-24T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000024"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000025"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000012"
+  },
+  "orderDate": {
+    "$date": "2026-08-25T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000002"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000007"
+      },
+      "quantity": 2
+    }
+  ],
+  "shippingCity": "Surat"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000026"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000014"
+  },
+  "orderDate": {
+    "$date": "2026-08-26T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000014"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000016"
+      },
+      "quantity": 2
+    }
+  ],
+  "shippingCity": "Bhopal"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000027"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000018"
+  },
+  "orderDate": {
+    "$date": "2026-08-27T00:00:00.000Z"
+  },
+  "status": "Shipped",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000005"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Indore"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000028"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000020"
+  },
+  "orderDate": {
+    "$date": "2026-08-28T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000028"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000010"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Noida"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000029"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000004"
+  },
+  "orderDate": {
+    "$date": "2026-08-29T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000025"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000027"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Ahmedabad"
+},
+{
+  "_id": {
+    "$oid": "670000000000000000000030"
+  },
+  "customerId": {
+    "$oid": "650000000000000000000009"
+  },
+  "orderDate": {
+    "$date": "2026-08-30T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "productId": {
+        "$oid": "660000000000000000000003"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "660000000000000000000030"
+      },
+      "quantity": 1
+    }
+  ],
+  "shippingCity": "Chennai"
+}]
